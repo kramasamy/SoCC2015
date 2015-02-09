@@ -3516,10 +3516,10 @@ label.error:before {
   min-height: inherit;
 }
 .page-microsite .navigation-wrapper .primary-navigation-wrapper .navbar li {
-  margin-right: 25px;
+  /* margin-right: 25px; */
 }
 .page-microsite .navigation-wrapper .primary-navigation-wrapper .navbar li a {
-  padding: 10px 0;
+  padding: 10px;
 }
 .page-microsite .navigation-wrapper .primary-navigation-wrapper .navbar .social {
   line-height: 40px;
