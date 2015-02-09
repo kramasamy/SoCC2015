@@ -3519,7 +3519,7 @@ label.error:before {
   /* margin-right: 25px; */
 }
 .page-microsite .navigation-wrapper .primary-navigation-wrapper .navbar li a {
-  padding: 10px;
+  padding: 10px 20px;
 }
 .page-microsite .navigation-wrapper .primary-navigation-wrapper .navbar .social {
   line-height: 40px;
