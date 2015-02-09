@@ -2485,7 +2485,7 @@ th.header:before {
   padding-left: 20px;
 }
 .navigation-wrapper .primary-navigation-wrapper header nav .navbar-nav li a:last-child {
-  padding-right: 0;
+  padding-right: 10px;
 }
 .navigation-wrapper .primary-navigation-wrapper header nav .navbar-nav li a:hover, .navigation-wrapper .primary-navigation-wrapper header nav .navbar-nav li a:focus, .navigation-wrapper .primary-navigation-wrapper header nav .navbar-nav li a:active {
   background-color: transparent;
