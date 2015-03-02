@@ -1010,6 +1010,7 @@ ul.list-links a:hover {
   text-align: center;
   text-transform: uppercase;
 }
+
 .events.grid .event {
   margin-bottom: 40px;
   padding-bottom: 50px;
@@ -4317,3 +4318,10 @@ label.error:before {
     top: inherit;
   }
 }
+.implinks {
+  float: left;
+  height: 70px;
+  overflow: hidden;
+  width: 70px;
+}
+
