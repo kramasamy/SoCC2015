@@ -273,6 +273,7 @@ if (typeof _date != 'undefined') { // run function only if _date is defined
 }
 
 // pricing table
+/*
 $('.pricing-table .plan').mouseover(function() {
   var plan = $(this);
   plan.addClass('plan-mouseover');
@@ -280,3 +281,4 @@ $('.pricing-table .plan').mouseover(function() {
   var plan = $(this);
   plan.removeClass('plan-mouseover');
 });
+*/
